@@ -14,7 +14,7 @@ To initiate the project you need python v2.7.16 or later installed on your compu
 Follow the ensuing steps to launch the website:
 1. Download the code or clone repository
 2. Change the directory of the console to the location of the files downloaded
-3. Run the following line of code in the console
+3. Run the following line in the console
 ```
 python main.py
 ```
