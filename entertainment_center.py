@@ -9,7 +9,7 @@ movies = [
     ),
     Movie(
         "The Good, the Bad and the Ugly",
-        "http://3.bp.blogspot.com/--NfTpxK3lIQ/VjT77DGR2kI/AAAAAAAAE_U/m67CUv0TolY/s1600/Il-buono-il-brutto-il-cattivo__poster_goldposter_com_15.jpg",
+        "http://3.bp.blogspot.com/--NfTpxK3lIQ/VjT77DGR2kI/AAAAAAAAE_U/m67CUv0TolY/s1600/Il-buono-il-brutto-il-cattivo__poster_goldposter_com_15.jpg",  # noqa
         "https://www.youtube.com/watch?v=yUB2tZ7TgHg"
     ),
     Movie(
